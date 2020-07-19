@@ -1,0 +1,12 @@
+{
+  "credentials": {
+    "userName": "",
+    "password": ""
+  },
+
+  "filters": {
+    "location": "",
+    "industry": "",
+    "numEmployees": 
+  }
+}
